@@ -1,7 +1,7 @@
 ﻿using Antlr4.Runtime.Misc;
 using Lucy.Antlr;
 using Lucy.Comparation;
-using Lucy.Operations;
+using Lucy.Operation;
 
 namespace Lucy.Visitor
 {

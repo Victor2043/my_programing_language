@@ -1,0 +1,27 @@
+﻿a = 20;
+b = 40;
+
+show("a: " + a);
+show("b: " + b);
+
+show("b / a : " + b / a);
+show("b * a : " + b * a);
+
+c = 2 + 2 - 2;
+show(c);
+
+if b < c {
+	result =  b + a;
+	show("Resultado de a + b = " + result);
+}
+else{
+	show("else");
+}
+
+i = 2
+while i < 10
+{
+	show(i);
+	i = i + 2;
+}
+

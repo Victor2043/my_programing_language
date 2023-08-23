@@ -37,8 +37,8 @@ b = "Hello !";
 
 **If Else Statement**
 ```bash
-c = 20
-d = 30
+c = 20;
+d = 30;
 if(c > d){
   show("c :" + c + "is bigger than d : " + d);
 }
